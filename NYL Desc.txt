@@ -1,0 +1,46 @@
+Client		: New York Life Insurance
+Team/Cluster    : Fixed Income Investers Group (FIIG)
+Team Size	: 5
+Technologies    : ASP.net MVC/Asp.net web forms, Silverlight, Click once, JQuery/JavaScript,
+                  C#.net, Angular JS, Angular 4, Crystal Reports, WCF RESTFUL, WebAPIs, Entity Framework,
+                  Telerik Rad Controls and Kendo UI, AJAX, JQuery, Java Script and SQL Server  
+Tools           : JIRA,Service Now,D-series
+Organization 	: Trianz
+Role		: Technical Lead
+Duration	: Nov 2018 to till date
+
+
+New York Life (NYL) is a leading provider for managing the fixed income ,real estate assets for NYL  and other strategic partners. 
+In which Fixed Income Investors provides a broad array of investment advisory services to New York Life’s General Account and strategic,
+third-party partners, such as other insurance companies’ general and separate accounts, institutional clients, investment companies, 
+and other pooled investment vehicles.FIIG Team fulfill the client requirement by supporting  more than 20 applications devoloped with legacy Technologies like
+silverlight,click Once. to latest angular versions. 
+
+Major Projects:
+Adhoc Reporting :This is a lite weight silverlight reporting application that pulls IDW data required for securtiy operations users to generate reports
+It also have scheduler option to schedule and generate the report on Adhoc cycles  via email or dropping the reports in shared paths.
+Technologies Involved:
+SAP GUI:SAP GUI Interface is a General Ledger entry system which helps in preparing monthly report related to financial position of the company.
+This monthly reports are based on the data that is being send from different lines of business. There are interfaces with each interface processing the files,
+reconciling and posting them to SAP. 
+CPPD:Corporate Private Placement Database (CPPD) is used by Business users to enter security information.Security Operations team verifies this data before entering them 
+into trading systems such as Aladdin or Geneva for transactions.System allows private placement analyst to capture prospective deals and track them to closure
+This application has roles that are managed under Entitlements and provisioned through MyAccess.
+
+
+
+
+Roles & Responsibilities: 
+
+·	Requirement analysis and documentation, interaction with the client.
+·	Gathering the specification from client and understanding the business.
+·	Providing the L0, L1 and L2 estimates.
+·	Preparation of technical design document for the requirements.
+·	Responsible to guide team to meet the time lines.
+.	Creating Unit test cases and share it to the testing team to review the same.
+·	Sql server2008 was used for Back-end.
+        ·Back-end design and queries development.
+.	Worked as a team member, actively involved in development and M&E activities.
+.	Enhancing Application based on Client Requirements.
+.	Bug Fixing.
+.	Performed Team Code reviews.

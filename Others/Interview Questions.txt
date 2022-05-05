@@ -1,0 +1,6 @@
+start class in .net core
+lock in sql server
+assembly,jit
+override,virtual
+partial in c#
+exception in c#

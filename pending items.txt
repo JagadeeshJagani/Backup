@@ -1,0 +1,18 @@
+1)Where to find the Tabs Icons
+  ---finished 
+2)where is the info about the phone number and email verification
+   ---Vishnu will create new apis for both of them and add new field to profile api method
+3)what response will be sent to through query string and what info to be displayed on the 
+success page after payment and failure page as well.
+   ---simon implemented and informed to vishnu the same.
+4)social networking redirect links
+  --Need to get the information from abhilash.
+5)social login i.e... facebook and gmail
+ ---working on it.
+6)add top header stripe for the login,logo and profile.
+7)tickets count make it as dynamic.
+8)gallery images are not displaying completely.
+9)failure page with the response data from payment .
+10)download ticket.
+
+1)created date,order date,status and amount is not displaying the order history page
