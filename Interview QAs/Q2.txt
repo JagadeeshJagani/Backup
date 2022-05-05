@@ -1,0 +1,34 @@
+Join() method
+c# method block the calling thread until a thread terminates
+--
+"X extends Y" is correct if X and Y are either both classes or both interface.
+---
+
+ non-subclasses in a different package
+
+--
+controller to check the active session
+beforeFilter()
+--	
+partial views in mvc
+reuseable view
+--
+webform framework
+which asp.net framwork involves declarative and control based programming
+--
+global.asax
+--
+.ndf
+--
+syscomments
+--
+clone
+--
+1,2,3
+--
+c:/windows/assembly
+--
+struct
+--
+max-age
+
